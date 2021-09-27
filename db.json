@@ -1,0 +1,18 @@
+{
+    "usuarios":[
+     {  "id": 1,
+        "apellido_paterno": "Cardozo",
+        "apellido_materno": "Iwanicki",
+        "nombre": "Lucas",
+        "username": "lucasig",
+        "password": "973a5f0ccbc4ee3524ccf035d35b284b"
+    },
+    {   "id": 2,
+        "apellido_paterno": "Card",
+        "apellido_materno": "Iwan",
+        "nombre": "Lorenzo",
+        "username": "lorencard",
+        "password": "be3e9d3f7d70537357c67bb3f4086846"
+    }
+    ]
+}
